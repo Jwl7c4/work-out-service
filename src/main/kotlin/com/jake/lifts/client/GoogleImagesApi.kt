@@ -1,6 +1,6 @@
 package com.jake.lifts.client
 
-import com.jake.lifts.vo.GoogleImageResults
+import com.jake.lifts.vo.google.GoogleImageResults
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Headers

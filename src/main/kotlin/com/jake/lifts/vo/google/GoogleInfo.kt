@@ -1,4 +1,4 @@
-package com.jake.lifts.vo
+package com.jake.lifts.vo.google
 
 import com.google.gson.annotations.SerializedName
 
